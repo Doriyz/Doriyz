@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doriyz" /> </div>
 -->
 
-<div align="center"> <img src="https://metrics.lecoq.io/Doriyz?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/insights/Doriyz"> </div>
 
