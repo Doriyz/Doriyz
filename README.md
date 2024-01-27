@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doriyz" /> </div>
 
+[Doriyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=Doriyz&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 
