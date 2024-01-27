@@ -18,29 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=blue-green" alt="Doriyz's GitHub stats" height="185px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=blue-green" alt="Top Langs" height="185px"/>   
-</div>
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=dracula" alt="Doriyz's GitHub stats" height="185px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=dracula" alt="Top Langs" height="185px"/>   
-</div>
-
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=tokyonight" alt="Doriyz's GitHub stats" height="185px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top Langs" height="185px"/>   
-</div>
-
-
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=great-gatsby" alt="Doriyz's GitHub stats" height="185px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=great-gatsby" alt="Top Langs" height="185px"/>   
-</div>
-
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=nightowl" alt="Doriyz's GitHub stats" height="185px"/> 
