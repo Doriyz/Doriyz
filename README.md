@@ -1,8 +1,6 @@
 
 
-<h2 align="center"> Doriyz </h2>
-
-<h4 align="center">AHA! 👋</h4>
+<h1 align="center"> Doriyz </h1>
 
 <!--
 **Doriyz/Doriyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +20,23 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=tokyonight" alt="Doriyz's GitHub stats" height="185px"/> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top Langs" height="185px"/>   
 </div>
+
+
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=merko" alt="Doriyz's GitHub stats" height="185px"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=merko" alt="Top Langs" height="185px"/>   
+</div>
+
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Doriyz&show_icons=true&theme=blue-green" alt="Doriyz's GitHub stats" height="185px"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doriyz&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&theme=blue-green" alt="Top Langs" height="185px"/>   
+</div>
+
+
+
+
 
 ![GitHub Snake Light](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake-dark.svg#gh-dark-mode-only)
