@@ -26,13 +26,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-![GitHub Snake Light](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake-dark.svg#gh-dark-mode-only)
-
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
